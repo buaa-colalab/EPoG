@@ -3,15 +3,18 @@
 <h1>EPoG: Integrated Exploration and Sequential Manipulation on Scene Graph with LLM-based Situated Replanning</h1>
 
 <div>
-    <a href='https://scholar.google.com' target='_blank'>Heqing Yang</a><sup>1</sup>&emsp;
-    <a href='https://scholar.google.com' target='_blank'>Ziyuan Jiao</a><sup>1</sup>&emsp;
-    <a href='https://scholar.google.com' target='_blank'>Shu Wang</a><sup>1</sup>&emsp;
-    <a href='https://scholar.google.com' target='_blank'>Yida Niu</a><sup>1</sup>&emsp;
+    <a href='https://scholar.google.com' target='_blank'>Heqing Yang</a><sup>1,2</sup>&emsp;
+    <a href='https://scholar.google.com' target='_blank'>Ziyuan Jiao</a><sup>1,2</sup>&emsp;
+    <a href='https://scholar.google.com' target='_blank'>Shu Wang</a><sup>3</sup>&emsp;
+    <a href='https://scholar.google.com' target='_blank'>Yida Niu</a><sup>4</sup>&emsp;
     <a href='https://scholar.google.com' target='_blank'>Si Liu</a><sup>1</sup>&emsp;
-    <a href='https://scholar.google.com' target='_blank'>Hangxin Liu</a><sup>1</sup>
+    <a href='https://scholar.google.com' target='_blank'>Hangxin Liu</a><sup>2</sup>
 </div>
 <div>
     <sup>1</sup>Beihang University
+    <sup>2</sup>State Key Laboratory of General Artificial Intelligence, BIGAI, Beijing, China.
+    <sup>3</sup>University of California, Los Angeles.
+    <sup>4</sup>Institute for Artificial Intelligence, Peking University.
 </div>
 
 <div>
