@@ -145,7 +145,7 @@ If you find this work useful, please consider citing our paper:
 
 ## 📄 License
 
-See [LICENSE](./LICENSE) for more information.
+This project is licensed under the Apache-2.0 License. See [LICENSE](./LICENSE) for more information.
 
 ## 🙏 Acknowledgement
 
