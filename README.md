@@ -145,7 +145,7 @@ If you find this work useful, please consider citing our paper:
 
 ## 📄 License
 
-This project is licensed under the MIT License. See [LICENSE](./LICENSE) for more information.
+See [LICENSE](./LICENSE) for more information.
 
 ## 🙏 Acknowledgement
 
